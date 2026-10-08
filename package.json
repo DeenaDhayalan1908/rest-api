@@ -1,0 +1,8 @@
+{
+  "name": "notes-api",
+  "version": "1.0.0",
+  "description": "Simple REST API for notes using Node.js and Express",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.19.2" }
+}
